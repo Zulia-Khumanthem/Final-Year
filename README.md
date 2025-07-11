@@ -114,11 +114,9 @@ web: gunicorn app:app
     <li>⭐ Star the repo if you find it useful!</li>
   </ol>
 
-  <h2 id="license">License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+  
 
   <hr/>
-  <p><em>“An ounce of prevention is worth a pound of cure.” – Benjamin Franklin</em></p>
-
+  
 </body>
 </html>
