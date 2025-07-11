@@ -1,19 +1,5 @@
+# Final-Year
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Fake News Detection Web App</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
-    h1, h2, h3 { color: #333; }
-    pre { background: #f4f4f4; padding: 10px; overflow-x: auto; }
-    code { background: #eef; padding: 2px 4px; border-radius: 4px; }
-    ul li { margin-bottom: 8px; }
-  </style>
-</head>
-<body>
 
   <h1>📰 Fake News Detection Web App</h1>
   <p>A Flask‑based web application that uses Machine Learning to classify news articles as real or fake. Enter text or URL and get instant predictions!</p>
